@@ -37,7 +37,9 @@ Is this my tail? (Uploaded) - correct_tail.c
 Basic Mathematical Operations (Not uploaded)
 Remove First and Last Character (Not uploaded)
 MakeUpperCase (Uploaded) - makeUpperCase.c
-7th Kyu:
+
+
+## 7th Kyu:
 
 Going to the cinema (Not uploaded)
 Send in the Clones (Uploaded) - accum.c
@@ -45,7 +47,9 @@ Growth of a Population (Uploaded) - nbYear.c
 Exes and Ohs (Not uploaded)
 Mumbling (Uploaded) - clonewars.c
 Sum of odd numbers (Not uploaded)
-6th kyu:
+
+
+## 6th kyu:
 
 Banker's Plan (Uploaded) - fortune.c
 Find The Parity Outlier (Uploaded) - find_outlier.c
