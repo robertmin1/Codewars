@@ -24,11 +24,18 @@ Growth of a Population - nbYear.c
 
 ## 6th kyu:
 
-Banker's Plan (Uploaded) - fortune.c
-Find The Parity Outlier (Uploaded) - find_outlier.c
-Buying a car (Uploaded) - nbMonths.c
-Mysterious function (Uploaded) - get_num.c
-Multiples of 3 or 5 (Uploaded) - solution.c
-Equal Sides Of An Array (Uploaded) - find_even_index.c
-Are they the "same"? (Uploaded) - comp.c
-Playing with digits (Uploaded) - digPow.c
+Banker's Plan  - fortune.c
+
+Find The Parity Outlier  - find_outlier.c
+
+Buying a car ) - nbMonths.c
+
+Mysterious function - get_num.c
+
+Multiples of 3 or 5 - solution.c
+
+Equal Sides Of An Array - find_even_index.c
+
+Are they the "same"?- comp.c
+
+Playing with digits  digPow.c
